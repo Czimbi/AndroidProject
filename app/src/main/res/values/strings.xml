@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TattoShop</string>
+    <string name="emailStr">pelda@gmail.com</string>
+    <string name="passwrd">Jelszó</string>
+    <string name="LogIn">Belépés</string>
+    <string name="Register">Regisztráció</string>
+    <string name="Cancel">Mégse</string>
+    <string name="appointment">Időpont</string>
+</resources>

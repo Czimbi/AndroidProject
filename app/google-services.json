@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "983537392523",
+    "project_id": "tattoo-project2022",
+    "storage_bucket": "tattoo-project2022.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983537392523:android:aa6691f5cc8f2427c66d8e",
+        "android_client_info": {
+          "package_name": "com.example.tattoshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "983537392523-5bt4d2t87b4vhumig2teoof2oake76vm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tattoshop",
+            "certificate_hash": "44cee433fd2071d3303a6951714078a531654741"
+          }
+        },
+        {
+          "client_id": "983537392523-q286tqsmmhkc34kvpak9i1sr2erm3s5b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5zVUroHQtjCYMmNkhmu4sdDPI3HnmA14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "983537392523-q286tqsmmhkc34kvpak9i1sr2erm3s5b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
